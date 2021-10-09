@@ -1,4 +1,4 @@
-# job_finder
+# job_finder: Implement Dark Mode in Flutter using Provider
 
 Job finder mobile app design
 
